@@ -1,5 +1,5 @@
 # eia
 Python wrapper for eia.gov Open Data API
 
-# TODO:
+### TODO:
 - add docstrings and other documentation
